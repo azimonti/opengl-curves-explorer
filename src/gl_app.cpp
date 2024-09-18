@@ -92,7 +92,7 @@ void GLApp::onInit()
     xPosition = yPosition = -1;
     width                 = 1280;
     height                = 720;
-    windowTitle           = "openGL Curves Explorer
+    windowTitle           = "openGL Curves Explorer";
     frameInit();
     imguiInit();
     engineWnd->onInit();
