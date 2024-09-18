@@ -54,3 +54,12 @@ Further update of the submodule can be done with the command:
   ```
   ./build/Release/opengl-curves-explorer
   ```
+
+
+Here some screenshots to show the possibilities of the application.
+
+![Screenshot 1](screenshots/screenshot_1.png)
+
+![Screenshot 2](screenshots/screenshot_2.png)
+
+![Screenshot 3](screenshots/screenshot_3.png)
