@@ -19,11 +19,11 @@ To get started with the OpenGL engine:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/azimonti/opengl-curves-explorer 
+   git clone https://github.com/azimonti/opengl-curves-explorer
    ```
 2. Navigate to the repository directory:
    ```
-   cd opengl-curves-explorer 
+   cd opengl-curves-explorer
    ```
 3. Initialize and update the submodules:
   ```
@@ -58,7 +58,6 @@ Further update of the submodule can be done with the command:
   ./build/Release/opengl-curves-explorer
   ```
 
-
 Here some screenshots to show the possibilities of the application.
 
 ![Screenshot 1](screenshots/screenshot_1.png)
@@ -66,3 +65,15 @@ Here some screenshots to show the possibilities of the application.
 ![Screenshot 2](screenshots/screenshot_2.png)
 
 ![Screenshot 3](screenshots/screenshot_3.png)
+
+## Contributing
+
+Contributions to the Opengl Curves Explorer project are welcome. Whether it's through submitting bug reports, proposing new features, or contributing to the code, your help is appreciated. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or want to get in touch regarding the project, please open an issue or contact the repository maintainers directly through GitHub.
